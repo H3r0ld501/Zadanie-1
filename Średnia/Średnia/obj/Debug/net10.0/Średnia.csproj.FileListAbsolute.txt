@@ -1,0 +1,14 @@
+C:\Users\Piotrek\source\repos\Średnia\Średnia\bin\Debug\net10.0\Średnia.exe
+C:\Users\Piotrek\source\repos\Średnia\Średnia\bin\Debug\net10.0\Średnia.deps.json
+C:\Users\Piotrek\source\repos\Średnia\Średnia\bin\Debug\net10.0\Średnia.runtimeconfig.json
+C:\Users\Piotrek\source\repos\Średnia\Średnia\bin\Debug\net10.0\Średnia.dll
+C:\Users\Piotrek\source\repos\Średnia\Średnia\bin\Debug\net10.0\Średnia.pdb
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\Średnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\Średnia.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\Średnia.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\Średnia.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\Średnia.dll
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\refint\Średnia.dll
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\Średnia.pdb
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\Średnia.genruntimeconfig.cache
+C:\Users\Piotrek\source\repos\Średnia\Średnia\obj\Debug\net10.0\ref\Średnia.dll

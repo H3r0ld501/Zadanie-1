@@ -1,0 +1,14 @@
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\bin\Debug\net10.0\Temperatura.exe
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\bin\Debug\net10.0\Temperatura.deps.json
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\bin\Debug\net10.0\Temperatura.runtimeconfig.json
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\bin\Debug\net10.0\Temperatura.dll
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\bin\Debug\net10.0\Temperatura.pdb
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\Temperatura.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\Temperatura.dll
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\refint\Temperatura.dll
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\Temperatura.pdb
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\Temperatura.genruntimeconfig.cache
+C:\Users\Piotrek\source\repos\Temperatura\Temperatura\obj\Debug\net10.0\ref\Temperatura.dll
